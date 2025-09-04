@@ -20,7 +20,7 @@ It supports YouTube, Spotify, and more, letting you play high-quality music in y
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-2. Install dependencies
+## 2. Install dependencies
 npm install
 
 3. Configure environment
